@@ -2,7 +2,7 @@ const contacts = [
   {
     id: 1,
     name: "Michael Scott",
-    imgURL: "https://miro.medium.com/max/500/1*xDIevNE7HEMiJQVTYg0qDQ.png",
+    imgURL: "https://media.giphy.com/media/tkApIfibjeWt1ufWwj/giphy.gif",
     phone: "308 456 7890",
     email: "threatLevelMidnight@dundermifflin.com"
   },
@@ -10,7 +10,7 @@ const contacts = [
     id: 2,
     name: "Dwight Schrute",
     imgURL:
-      "https://dundermifflinscrantonbranch.weebly.com/uploads/1/4/9/0/14905642/864013.jpg?156",
+      "https://media.giphy.com/media/2oUfvvUgQHnLsQWFMW/giphy.gif",
     phone: "308-826-5962",
     email: "beetfarmer97@dundermifflin.com"
   },
@@ -18,7 +18,7 @@ const contacts = [
     id: 3,
     name: "Jim Halpert",
     imgURL:
-      "https://dundermifflinscrantonbranch.weebly.com/uploads/1/4/9/0/14905642/6349758.jpg?216",
+      "https://media.giphy.com/media/Yycc82XEuWDaLLi2GV/giphy.gif",
     phone: "308-726-7327",
     email: "whoPutMyStaplerInJello@dundermifflin.com"
   },
@@ -26,7 +26,7 @@ const contacts = [
     id: 4,
     name: "Pam Beesley",
     imgURL:
-      "https://dundermifflinscrantonbranch.weebly.com/uploads/1/4/9/0/14905642/9673001.jpg?161",
+      "https://media.giphy.com/media/0mKPytMujTds4e26IS/giphy.gif",
     phone: "308-512-7656",
     email: "watercolorArtist@dundermifflin.com"
   },
@@ -34,7 +34,7 @@ const contacts = [
     id: 5,
     name: "Creed Bratton",
     imgURL:
-      "https://dundermifflinscrantonbranch.weebly.com/uploads/1/4/9/0/14905642/4752739.jpg?158",
+      "https://media.giphy.com/media/yBwcx562kZ2FWlYb2A/giphy.gif",
     phone: "308-735-6808",
     email: "somebodyMakinSoup@dundermifflin.com"
   },
@@ -42,7 +42,7 @@ const contacts = [
     id: 6,
     name: "Angela Martin",
     imgURL:
-      "https://dundermifflinscrantonbranch.weebly.com/uploads/1/4/9/0/14905642/7916276.jpg?156",
+      "https://media.giphy.com/media/kGafOToTvXIAU8m9U5/giphy.gif",
     phone: "308-564-2597",
     email: "iLoveSprinkles@dundermifflin.com"
   },
@@ -50,7 +50,7 @@ const contacts = [
     id: 7,
     name: "Toby Flenderson",
     imgURL:
-      "https://dundermifflinscrantonbranch.weebly.com/uploads/1/4/9/0/14905642/3541566.jpg?174",
+      "https://media.giphy.com/media/b7gVw12OQPeilE1rg8/giphy.gif",
     phone: "308-123-4567",
     email: "tflenderson@dundermifflin.com"
   },
@@ -58,7 +58,7 @@ const contacts = [
     id: 8,
     name: "Kevin Malone",
     imgURL:
-      "https://dundermifflinscrantonbranch.weebly.com/uploads/1/4/9/0/14905642/5356844.jpg?157",
+      "https://media.giphy.com/media/bC9czlgCMtw4cj8RgH/giphy.gif",
     phone: "308-989-4245",
     email: "chiliChef@dundermifflin.com"
   },
@@ -66,7 +66,7 @@ const contacts = [
     id: 9,
     name: "Andy Bernard",
     imgURL:
-      "https://dundermifflinscrantonbranch.weebly.com/uploads/1/4/9/0/14905642/8200098.jpg?157",
+      "https://media.giphy.com/media/0NwSQpGY6ipgOSt8LL/giphy.gif",
     phone: "308-786-4983",
     email: "narddog@dundermifflin.com"
   },
@@ -74,7 +74,7 @@ const contacts = [
     id: 10,
     name: "Ryan the Temp",
     imgURL:
-      "https://dundermifflinscrantonbranch.weebly.com/uploads/1/4/9/0/14905642/7133812.jpg?157",
+      "https://media.giphy.com/media/sWgg97CgxB3UFuu9hu/giphy.gif",
     phone: "308-412-0374",
     email: "dunderWonder@dundermifflin.com"
   },
@@ -82,9 +82,17 @@ const contacts = [
     id: 11,
     name: "Stanley Hudson",
     imgURL:
-      "https://dundermifflinscrantonbranch.weebly.com/uploads/1/4/9/0/14905642/6152574.jpg?222",
+      "https://media.giphy.com/media/F3BeiZNq6VbDwyxzxF/giphy.gif",
     phone: "308-525-8868",
     email: "didIStutter@dundermifflin.com"
+  },
+  {
+    id: 12,
+    name: "Kelly Kapoor",
+    imgURL:
+      "https://media.giphy.com/media/JvEMPOQubkyQx9YLQ5/giphy.gif",
+    phone: "308-803-3008",
+    email: "iloveryan@dundermifflin.com"
   }
 ];
 
